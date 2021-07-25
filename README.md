@@ -1,0 +1,1 @@
+Olá, chamo-me Tomás e sou um entusiasta na area de programação e de redes, bem-vindo ao meu repositorio do github. Sou uma pessoa inteligente, sei trabalhar em JavaScript, React, Node.JS, HTML, PHP e C#. Em redes já simulei redes MPLS, BGP, VPLS, VLAN'S, OSPF, entre outros protocolos.
