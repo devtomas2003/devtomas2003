@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Dinis</h1>
-<h3 align="center">Sou um entusiasta na área de programação e de redes, bem-vindo ao meu repositório do github. Em redes já simulei redes MPLS, BGP, VPLS, VLAN'S, OSPF, entre outros protocolos.</h3>
+<h3 align="center">I'm a programming and networking enthusiast, welcome to my github repository. In networks I've simulated MPLS, BGP, VPLS, VLAN'S, OSPF networks, among other protocols.</h3>
 
 <p align="left"> <a href="https://twitter.com/devtomas2003" target="blank"><img src="https://img.shields.io/twitter/follow/devtomas2003?logo=twitter&style=for-the-badge" alt="devtomas2003" /></a> </p>
 
