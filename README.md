@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devtomas2003" target="blank"><img src="https://img.shields.io/twitter/follow/devtomas2003?logo=twitter&style=for-the-badge" alt="devtomas2003" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Routing Protocols and Node.JS**
+- 🌱 I’m currently learning **LTE NETWORKS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devtomas2003](https://github.com/devtomas2003)
 
